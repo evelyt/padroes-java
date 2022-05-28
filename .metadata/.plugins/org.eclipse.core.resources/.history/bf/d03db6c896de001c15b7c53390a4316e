@@ -1,0 +1,12 @@
+package com.dio.br;
+
+/**
+ * Singleton "apressado"
+ * 
+ * @author Evely
+ *
+ */
+public class SingletonEager {
+
+	
+}

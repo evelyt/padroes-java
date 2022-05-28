@@ -1,0 +1,8 @@
+package one.digitalinnovation.gof.singleton;
+
+public class Snippet {
+	public static void main(String[] args) {
+		one.digitalinnovation.gof
+	}
+}
+

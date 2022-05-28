@@ -1,0 +1,10 @@
+package com.dio.br;
+
+/**
+ * Singleton "preguicoso"
+ * @author Evely
+ *
+ */
+public class SingletonLazy {
+
+}
